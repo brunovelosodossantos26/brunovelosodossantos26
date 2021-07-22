@@ -12,6 +12,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="rails" width="40" height="40" style="max-width:100%;" ></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;" ></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="rails" width="40" height="40" style="max-width:100%;" ></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="rails" width="40" height="40" style="max-width:100%;" ></img>
 
 <!--
 **brunovelosodossantos26/brunovelosodossantos26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
